@@ -1,0 +1,2 @@
+seqnames	start	end	width	strand	gene_id	gene_name	gene_biotype	seq_coord_system	description	gene_id_version	canonical_transcript	symbol	entrezid
+17	40388525	40417896	29372	-	ENSG00000131747	TOP2A	protein_coding	chromosome	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	ENSG00000131747.15	ENST00000423485	TOP2A	
